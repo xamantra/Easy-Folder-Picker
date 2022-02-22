@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   permission_handler: 4.0.0
-  path: 1.7.0
+  path: 1.8.0-nullsafety.1
 
 dev_dependencies:
 
